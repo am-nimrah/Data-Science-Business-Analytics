@@ -1,4 +1,4 @@
-# Data Science and Business Analytics Project
+# Data Science and Business Analytics Internship at The Sparks Foundation
 
 ## Introduction
 This repository contains tasks, datasets, and solutions related to data analysis and business insights.
